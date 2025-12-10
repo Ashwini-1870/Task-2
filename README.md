@@ -54,5 +54,5 @@ Storage
 Monthly Profit comparison
 
 Sales vs Profit comparison
-
-YoY growth trends
+IMAGE:-
+<img width="986" height="546" alt="image" src="https://github.com/user-attachments/assets/9151c366-4607-4e8a-aea3-ac8a4f27b85a" />
